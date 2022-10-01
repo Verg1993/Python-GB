@@ -1,0 +1,16 @@
+C:\Users\Verg\Desktop\Учеба\Семинары C# ( задачи)\Семинар 1\Задача1\bin\Debug\net6.0\Задача1.exe
+C:\Users\Verg\Desktop\Учеба\Семинары C# ( задачи)\Семинар 1\Задача1\bin\Debug\net6.0\Задача1.deps.json
+C:\Users\Verg\Desktop\Учеба\Семинары C# ( задачи)\Семинар 1\Задача1\bin\Debug\net6.0\Задача1.runtimeconfig.json
+C:\Users\Verg\Desktop\Учеба\Семинары C# ( задачи)\Семинар 1\Задача1\bin\Debug\net6.0\Задача1.dll
+C:\Users\Verg\Desktop\Учеба\Семинары C# ( задачи)\Семинар 1\Задача1\bin\Debug\net6.0\ref\Задача1.dll
+C:\Users\Verg\Desktop\Учеба\Семинары C# ( задачи)\Семинар 1\Задача1\bin\Debug\net6.0\Задача1.pdb
+C:\Users\Verg\Desktop\Учеба\Семинары C# ( задачи)\Семинар 1\Задача1\obj\Debug\net6.0\Задача1.GlobalUsings.g.cs
+C:\Users\Verg\Desktop\Учеба\Семинары C# ( задачи)\Семинар 1\Задача1\obj\Debug\net6.0\Задача1.csproj.AssemblyReference.cache
+C:\Users\Verg\Desktop\Учеба\Семинары C# ( задачи)\Семинар 1\Задача1\obj\Debug\net6.0\Задача1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Verg\Desktop\Учеба\Семинары C# ( задачи)\Семинар 1\Задача1\obj\Debug\net6.0\Задача1.AssemblyInfoInputs.cache
+C:\Users\Verg\Desktop\Учеба\Семинары C# ( задачи)\Семинар 1\Задача1\obj\Debug\net6.0\Задача1.AssemblyInfo.cs
+C:\Users\Verg\Desktop\Учеба\Семинары C# ( задачи)\Семинар 1\Задача1\obj\Debug\net6.0\Задача1.csproj.CoreCompileInputs.cache
+C:\Users\Verg\Desktop\Учеба\Семинары C# ( задачи)\Семинар 1\Задача1\obj\Debug\net6.0\Задача1.dll
+C:\Users\Verg\Desktop\Учеба\Семинары C# ( задачи)\Семинар 1\Задача1\obj\Debug\net6.0\ref\Задача1.dll
+C:\Users\Verg\Desktop\Учеба\Семинары C# ( задачи)\Семинар 1\Задача1\obj\Debug\net6.0\Задача1.pdb
+C:\Users\Verg\Desktop\Учеба\Семинары C# ( задачи)\Семинар 1\Задача1\obj\Debug\net6.0\Задача1.genruntimeconfig.cache
